@@ -1,0 +1,20 @@
+# API Service Requirements
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+python-multipart==0.0.9
+pydantic==2.9.2
+pillow==10.4.0
+opencv-python==4.10.0.84
+mlflow==3.8.1
+boto3==1.35.29
+prometheus-client==0.21.0
+redis==5.1.1
+python-dotenv==1.0.1
+fastapi-utils==0.7.0
+asyncpg==0.27.0
+starlette==0.38.1
+torch==2.5.1
+torchvision==0.20.1
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.2
