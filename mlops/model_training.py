@@ -1,7 +1,6 @@
 """
 Casting Defect Detection - Model Training Pipeline
 ===================================================
-Production-grade CV training pipeline adapted from the cyberbullying NLP system.
 
 Architecture:
     - EfficientNet-B3 backbone (pretrained on ImageNet)

@@ -1,9 +1,7 @@
 """
-Casting Defect Detection — Production Inference API (FINAL)
+Casting Defect Detection — Production Inference API 
 ===========================================================
-Architecture: Combines Set 1's operational maturity with Set 2's explainability
 
-Design Decisions (documented for interview):
   1. ASYNC DB LOGGING: Non-blocking writes to PostgreSQL via asyncio.create_task()
      - User response in ~50ms, DB write happens in background
      - Feeds Tier-1 drift detection (brightness, contrast, file_size)
