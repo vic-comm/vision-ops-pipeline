@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # 🏭 Casting Defect Detection: VisionOps Pipeline
 
 This repository contains a production-ready, end-to-end Machine Learning system for real-time industrial defect detection. It transitions a standard Computer Vision classification task into a highly observable, stateless, and mathematically rigorous MLOps architecture.
